@@ -7258,6 +7258,11 @@ textarea.form-control {
 /*-------------------------
     Google Map
 ------------------------*/
+#mapid { height: 500px; }
+
+img.leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive {
+  width: 20%;
+}
 #map {
   height: 620px;
 }
